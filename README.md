@@ -45,7 +45,7 @@ Overview: Techniques for analyzing time series data.
 * Recurrent Neural Networks (RNNs)
 * Frameworks: TensorFlow, Keras
 
-## **Data Science Project Lifecycle and Deployment 
+## Data Science Project Lifecycle and Deployment 
 Overview: End-to-end process of carrying out a data science project and deploying models.
 * Spotify API and analysis
 * Zillow API and analysis
